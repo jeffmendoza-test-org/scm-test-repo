@@ -1,0 +1,24 @@
+{
+  "github.com": {
+    "jeffmendoza-test-org": {
+      "included": [],
+      "excluded": []
+    },
+    "ossf": {
+      "included": [
+        "package-feeds",
+        "criticality_score",
+        "package-analysis",
+        "scorecard",
+        "scorecard-action",
+        "scorecard-webapp",
+        "fuzz-introspector",
+        "allstar",
+        "malicious-packages",
+        "disclosure-check",
+        "scorecard-visualizer"
+      ],
+      "excluded": []
+    }
+  }
+}
