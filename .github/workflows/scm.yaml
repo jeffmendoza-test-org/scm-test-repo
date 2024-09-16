@@ -29,4 +29,4 @@ jobs:
           # The token is needed to create issues, discovery mode and pushing changes in files
           github-token: ${{ secrets.GITHUB_TOKEN }}
           discovery-enabled: true
-          discovery-orgs: 'jeffmendoza-test-org'
+          discovery-orgs: 'jeffmendoza-test-org,ossf'
